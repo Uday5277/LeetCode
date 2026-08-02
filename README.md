@@ -10,14 +10,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -26,5 +29,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
