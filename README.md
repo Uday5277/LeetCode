@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Uday5277/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Uday5277/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uday5277/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Uday5277/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Uday5277/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uday5277/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -87,17 +89,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Uday5277/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uday5277/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Uday5277/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
