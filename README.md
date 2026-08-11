@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Lifting
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/Uday5277/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Uday5277/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
