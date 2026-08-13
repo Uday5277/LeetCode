@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Uday5277/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Stack
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Uday5277/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -168,5 +172,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Uday5277/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
