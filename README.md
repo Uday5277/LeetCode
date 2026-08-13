@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Uday5277/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Uday5277/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 ## Counting
@@ -188,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Uday5277/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
