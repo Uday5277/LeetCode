@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Uday5277/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uday5277/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Uday5277/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0127-word-ladder](https://github.com/Uday5277/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Uday5277/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Uday5277/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Uday5277/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Uday5277/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Uday5277/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Uday5277/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Uday5277/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
