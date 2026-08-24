@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Uday5277/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Uday5277/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Uday5277/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -309,9 +310,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Uday5277/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Uday5277/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Uday5277/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Uday5277/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
