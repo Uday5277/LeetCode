@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Uday5277/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Uday5277/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Uday5277/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Uday5277/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Uday5277/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Uday5277/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Uday5277/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
