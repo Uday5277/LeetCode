@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Uday5277/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Uday5277/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Uday5277/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/Uday5277/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Uday5277/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Uday5277/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Uday5277/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Uday5277/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/Uday5277/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
 ## Union-Find
