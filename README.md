@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Uday5277/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Uday5277/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Uday5277/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Uday5277/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Uday5277/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Uday5277/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Uday5277/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Uday5277/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/Uday5277/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/Uday5277/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Uday5277/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/Uday5277/LeetCode/tree/main/0542-01-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
