@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Uday5277/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Uday5277/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,12 +178,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Uday5277/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Uday5277/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Uday5277/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Uday5277/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Uday5277/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/Uday5277/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Uday5277/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Uday5277/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Uday5277/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Uday5277/LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Uday5277/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Uday5277/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
